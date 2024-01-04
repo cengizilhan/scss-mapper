@@ -1,6 +1,6 @@
 {
   "name": "scss-structure-mapper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A versatile npm package for generating a comprehensive map of SCSS file dependencies within a specified folder structure. Easily analyze and visualize the import relationships between your SCSS files. Ideal for projects with complex stylesheets.",
   "main": "index.js",
   "scripts": {
