@@ -71,3 +71,8 @@ const outputFilePath = path.join(process.cwd(), 'scssMap.txt'); // Save in the c
 const scssMap = {};
 generateScssMap(sassFolderPath, scssMap);
 writeScssMapToFile(scssMap, outputFilePath);
+
+module.exports = {
+    generateScssMap,
+    writeScssMapToFile
+};
