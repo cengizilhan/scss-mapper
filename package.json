@@ -16,6 +16,9 @@
     "visualization",
     "folder structure"
   ],
+  "bin": {
+    "scss-structure-mapper": "./cli.js"
+  },
   "author": "sawacrow",
   "license": "MIT",
   "dependencies": {
