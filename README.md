@@ -158,3 +158,11 @@ It should appear as follows:
   ]
 }
   ```
+
+github:
+https://github.com/cengizilhan/scss-mapper/
+
+npm:
+https://www.npmjs.com/package/scss-mapper
+
+
