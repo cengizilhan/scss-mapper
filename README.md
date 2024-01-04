@@ -10,4 +10,4 @@ Install the package:
 ```bash
 npm install scss-map-generator
 
-npm run scss.js 'your/folder/path'
+npx scss-structure-mapper './sass-folder'
