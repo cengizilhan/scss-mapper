@@ -10,9 +10,9 @@ Install the package:
 
 ```bash
 
-npm install scss-map-generator
+npm install scss-mapper
 
-npx scss-structure-mapper './your-sass-folder'
+npx scss-mapper './your-sass-folder'
 
 ```
 
